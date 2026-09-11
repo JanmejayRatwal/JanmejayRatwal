@@ -41,18 +41,18 @@ A machine learning system that classifies emails as **spam or legitimate** using
   <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,git,github" />
 </p>
 
-### AI / ML & Tools
+### AI / ML & Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=flask,scikitlearn,vscode" />
 </p>
 
 <p>
-  <strong>AI / ML:</strong> Scikit-learn · Machine Learning · NLP · LLMs
+  <strong>AI / ML:</strong> Machine Learning · NLP · LLMs · Scikit-learn
 </p>
 
 <p>
-  <strong>Development:</strong> Backend Development · APIs · Automation · Parallel Processing
+  <strong>Backend:</strong> Flask · APIs · Automation · Parallel Processing
 </p>
 
 
