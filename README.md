@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Janmejay Ratwal — Software Developer">
+</p>
+
 # Hi, I'm Janmejay 👋
 
 ### Software Developer • Backend • Automation • AI/ML
