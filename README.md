@@ -35,19 +35,36 @@ A machine learning system that classifies emails as **spam or legitimate** using
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages & Development
 
-`Python` `C` `C++` `JavaScript` `HTML/CSS`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,git,github" />
+</p>
 
-**Development**
+### AI / ML & Tools
 
-`Git` `GitHub` `Backend Development` `Automation`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,vscode,github" />
+</p>
 
-**AI / ML**
+<p>
+  <strong>AI / ML:</strong> Scikit-learn · Machine Learning · NLP · LLMs
+</p>
 
-`Scikit-learn` `Machine Learning` `NLP` `LLMs`
+<p>
+  <strong>Development:</strong> Backend Development · APIs · Automation · Parallel Processing
+</p>
 
----
+
+## 📊 GitHub Activity
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JanmejayRatwal&show_icons=true&hide_border=true&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=00000000"
+    height="170"
+  />
+</p>
+
 
 ## 🔭 Currently Exploring
 
