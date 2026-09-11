@@ -63,18 +63,6 @@ A machine learning system that classifies emails as **spam or legitimate** using
   <img src="./profile/top-langs.svg" height="170" />
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanmejayRatwal&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanmejayRatwal&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
 
 ## 🔭 Currently Exploring
 
